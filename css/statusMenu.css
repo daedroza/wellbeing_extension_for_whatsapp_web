@@ -1,5 +1,5 @@
 /* Status Menu */
-._2cNrC:first-of-type
+._2cNrC:nth-of-type(2)
 {
 display: none;
 transition-delay: 0s;

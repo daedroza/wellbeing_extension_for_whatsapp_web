@@ -1,6 +1,6 @@
 {
   "name": "Wellbeing Extension For WhatsApp Web",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Stop WhatsApp Web from destroying your productivity.",
   "permissions": [
     "tabs",
